@@ -56,8 +56,7 @@ web-scraping/
 ├── sweater_weather.html
 ├── cover.jpg
 └── README.md
-
----
+```
 
 ## 🙋‍♂️ About Me
 
