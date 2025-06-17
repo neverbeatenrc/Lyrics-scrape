@@ -46,14 +46,6 @@ pip install -r requirements.txt
 ```
 
 ---
-
-## 🙋‍♂️ About Me
-
-Just a student exploring Python, scraping, and the web.
-Looking forward to building more projects!
-
----
-
 ## 📂 Folder Structure
 
 ```
@@ -64,6 +56,12 @@ web-scraping/
 ├── sweater_weather.html
 ├── cover.jpg
 └── README.md
+
+## 🙋‍♂️ About Me
+
+Just a student exploring Python, scraping, and the web.
+Looking forward to building more projects!
+
 
 
 
