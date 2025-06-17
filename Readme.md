@@ -8,7 +8,7 @@ This repository contains basic web scraping projects built with Python using lib
 
 - `web_scraper.py` — A Python script to scrape article titles from websites (e.g., Blackcoffer).
 - `headers.py` — For storing request headers to avoid detection.
-- `sweater_weather.html` — A beautiful static HTML page with styled lyrics.
+- `index.html` — A beautiful static HTML page with styled lyrics.
 - `album_cover.jpg` — An album art image used in the `sweater_weather.html` file.
 
 ---
