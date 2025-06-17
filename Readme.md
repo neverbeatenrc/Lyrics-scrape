@@ -57,6 +57,8 @@ web-scraping/
 ├── cover.jpg
 └── README.md
 
+---
+
 ## 🙋‍♂️ About Me
 
 Just a student exploring Python, scraping, and the web.
