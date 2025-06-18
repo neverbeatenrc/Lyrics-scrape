@@ -24,15 +24,6 @@ A fun side project to experiment with HTML and CSS layout.
 
 ---
 
-
-### Sweater Weather HTML:
-
-1. Open `sweater_weather.html` in any browser.
-2. Ensure `album_cover.jpg` is in the same folder.
-3. Or deploy using GitHub Pages for a live view.
-
----
-
 ## 📚 Requirements
 
 * Python 3.x
